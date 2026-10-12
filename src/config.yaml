@@ -1,0 +1,9 @@
+parameters:
+  c: 200.0
+  m: 12.45
+  epsilon: 60
+  sigma: 1.0
+  dth: 0.8
+  alpha: 150.0
+  eta: 100.0
+  dmin: 0.8

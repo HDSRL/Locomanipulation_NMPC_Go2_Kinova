@@ -1,0 +1,13 @@
+build/
+
+#All log files
+Sim_Outputs/
+log.txt
+log_*.txt
+
+# Editor / OS / tooling
+.vscode/
+.DS_Store
+__pycache__/
+*.asv
+imgui.ini

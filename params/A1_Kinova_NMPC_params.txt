@@ -1,0 +1,85 @@
+1e8,1e8,8e8        
+1e6,1e6,1e6
+1e8,1e8,5e8
+5e4,5e4,5e4
+2e1,2e1,2e1,2e1
+1e2,1e2,1e2,1e2
+0,0,0
+0,0,0
+8.5e7,8e7,8e6,3e5
+0,0,0
+0,0,0
+8e5,8e5,8e4,8e5
+1e2,1e2,1e2,1e2
+5e2,5e2,5e2
+5e0,5e0,5e0
+1e1,1e1,1e1,1e1,1e1,1e1
+13
+
+
+// =========================================== //
+// ======= Ordering and default values ======= //
+// =========================================== //
+Qpx = 1e5;Qpy = 1e5;Qpz = 1e5;
+Qvx = 1e5;Qvy = 1e5;Qvz = 1e5;
+Qrr = 1e3;Qrp = 1e3;Qry = 1e3;
+Qwr = 5e3;Qwp = 5e3;Qwy = 5e3;
+Pp = 1e1;Pv = 1e1;Pr = 1e1;Pw = 1e1;
+RFR = 1e0;RFL = 1e0;RRR = 1e0;RRL = 1e0;
+Qp_abx = 0;Qp_aby = 0;Qp_abz = 0;
+Qr_abx = 0;Qr_aby = 0;Qr_abz = 0;
+Qq_s1 = 8e5;Qq_s2 = 8e7;  Qq_s3 = 8e5;Qq_s4 = 3e3;
+Qdp_abx = 0;Qdp_aby = 0;Qdp_abz = 0;
+Qomega_abx = 0;Qomega_aby = 0;Qomega_abz = 0;
+Qdq_s1 = 8e3;Qdq_s2 = 8e5;Qdq_s3 = 8e3;Qdq_s4 = 8e1;
+Ra1 = 1e0;Ra2 = 1e0;Ra3 = 1e0;Ra4 = 1e0;
+R_f1 = 1e1;R_f2 = 1e1;R_f3 = 1e1;
+R_tau1 = 5e0;R_tau2 = 5e0;R_tau3 = 5e0;
+Pp_ab = 1e1;Pr_ab = 1e1;Pq_s = 1e1;Pdp_ab = 1e1;Pomega_ab = 1e1;Pq_s = 1e1;
+solver_iter=10
+
+
+1e8,1e8,1e8         
+1e6,1e6,1e6
+1e8,1e8,1e8
+5e4,5e4,5e4
+1e1,1e1,1e1,1e1
+1e0,1e0,1e0,1e0
+0,0,0
+0,0,0
+8.5e7,8e7,8e6,3e4
+0,0,0
+0,0,0
+8e3,8e5,8e4,8e2
+1e1,1e1,1e1,1e1
+5e1,1e1,1e1
+5e0,5e0,5e0
+1e1,1e1,1e1,1e1,1e1,1e1
+5
+
+
+1e6, 1e6, 8e6
+1e5, 1e5, 1e5
+1e6, 1e6, 1e6
+1e4, 1e4, 1e4
+1e1,1e1,1e1,1e1
+1e0,1e0,1e0,1e0
+
+
+1e8,1e8,5e9         
+5e8,5e7,1e8
+5e8,9e8,5e8
+5e5,8e5,5e5
+1e1,1e1,1e1,1e1
+5e1,5e1,5e1,5e1
+0,0,0
+0,0,0
+8.5e7,8e7,8e6,3e4
+0,0,0
+0,0,0
+8e3,8e5,8e4,8e2
+1e2,1e2,1e2,1e2
+5e1,1e1,1e1
+5e0,5e0,5e0
+1e1,1e1,1e1,1e1,1e1,1e1
+6

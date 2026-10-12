@@ -1,0 +1,67 @@
+1e6, 1e6, 16e6
+1e5, 1e5, 1e5
+1e6, 1e6, 1e6
+1e4, 1e4, 1e4
+1e1,1e1,1e1,1e1
+1e0,1e0,1e0,1e0
+
+
+
+
+
+
+// =========================================== //
+// ======= Ordering and default values ======= //
+// =========================================== //
+Qpx = 1e6;Qpy = 1e6;Qpz = 8e6;
+Qvx = 1e5;Qvy = 1e5;Qvz = 1e5;
+Qrr = 1e6;Qrp = 1e6;Qry = 1e6;
+Qwr = 1e4;Qwp = 1e4;Qwy = 1e4;
+Pp = 1e1;Pv = 1e1;Pr = 1e1;Pw = 1e1;
+RFR = 1e0;RFL = 1e0;RRR = 1e0;RRL = 1e0;
+
+1e5, 1e5, 8e5
+1e5, 1e5, 1e5
+3e5, 5e5, 1e5
+1e4, 1e4, 1e4
+1e2,1e2,1e2,1e2
+1e0,1e0,1e0,1e0
+
+1e6, 1e6, 8e7
+1e5, 1e5, 1e5
+1e7, 1e7, 1e8
+1e5, 1e5, 5e6
+1e1,1e1,1e1,1e1
+1e0,1e0,1e0,1e0
+
+Last generate_dependencies1e8, 1e7, 8e2
+1e8, 1e7, 1e5
+1e7, 1e7, 1e8
+1e5, 1e5, 5e6
+1e1,1e1,1e1,1e1
+1e0,1e0,1e0,1e0
+
+
+Walking forward with no velocity feedback
+1e8, 1e7, 8e6
+1e6, 1e6, 1e5
+1e6, 1e6, 1e6
+1e4, 1e4, 1e4
+1e1,1e1,1e1,1e1
+1e0,1e0,1e0,1e0
+
+
+Go2 walking but drif in y
+1e8, 5e8, 1e9
+1e7, 1e7, 1e6
+1e6, 1e6, 1e6
+1e4, 1e4, 1e4
+1e1,1e1,1e1,1e1
+1e0,1e0,1e0,1e0
+
+1e6, 1e6, 1e8
+1e5, 1e5, 1e2
+1e6, 1e6, 1e6
+1e4, 1e4, 1e4
+1e1,1e1,1e1,1e1
+1e0,1e0,1e0,1e0
