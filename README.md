@@ -5,7 +5,7 @@ C++ implementation of the controller from:
 > **A Nonlinear MPC Framework for Loco-Manipulation of Quadrupedal Robots With Non-Negligible Manipulator Dynamics**
 > Ruturaj S. Sambhus, Kapi Ketan Mehta, Ali MirMohammad Sadeghi, Basit Muhammad Imran, Jeeseop Kim, Taizoon Chunawala, Vittorio Pastore, Sujith Vijayan, Kaveh Akbari Hamed
 > *IEEE Robotics and Automation Letters*, vol. 11, no. 4, pp. 4050–4057, 2026
-> [Paper](https://ieeexplore.ieee.org/document/11393908) · [arXiv:2507.22042](https://arxiv.org/abs/2507.22042)
+> [Project page](https://ruturajsambhusvt.github.io/RAL_locomanip/) · [Paper](https://ieeexplore.ieee.org/document/11393908) · [arXiv:2507.22042](https://arxiv.org/abs/2507.22042)
 
 Developed at the Hybrid Dynamic Systems and Robot Locomotion Lab (HDSRL), Virginia Tech.
 
